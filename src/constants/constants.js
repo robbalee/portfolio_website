@@ -2,8 +2,8 @@ export const projects = [
   {
     title: 'Drone project',
     description: "using quadcopeters to transport people in metropolian cities is the vision behind this high school project. this project can also help transporting medical kits and other packages into remote areas and roadless villages.",
-      image: '/images/1.png',
-      tags: ['Brushless motors', 'Aerodynamics', 'blades'],
+    image: '/images/1.png',
+    tags: ['Brushless motors', 'Aerodynamics', 'blades'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 0,
@@ -20,8 +20,8 @@ export const projects = [
   {
     title: 'Edo',
     description:"a place you find doctors from your home. you get to receive online diagnostics, advice about your health related issues. This website will help doctors reach a lot of people through digital channels.",
-      image: '/images/3.png',
-      tags: ['Java', 'JDK'],
+    image: '/images/3.png',
+    tags: ['Java', 'JDK'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
