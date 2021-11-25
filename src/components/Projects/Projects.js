@@ -18,6 +18,7 @@ const Projects = () => (
               <Hr />
             </TitleContent>
             <CardInfo className="card-info">{p.description}</CardInfo>
+            <br />
             <div>
               <TitleContent>Stack</TitleContent>
               <TagList>
@@ -26,10 +27,10 @@ const Projects = () => (
                 })}
               </TagList>
             </div>
-            <UtilityList>
+           {/* <UtilityList>
               <ExternalLinks href={p.visit}>Code</ExternalLinks>
               <ExternalLinks href={p.source}>Source</ExternalLinks>
-            </UtilityList>
+            </UtilityList> */}
           </BlogCard>
         );
       })}

@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiClojureAlt, DiCoda, DiCodepen, DiDreamweaver, DiFirebase, DiIe, DiMozilla, DiReact, DiSwift, DiUikit, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -8,8 +8,8 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I've worked with a range a technologies in the computer engineering world.
+      From programming to VLSI design
     </SectionText>
     <List>
       <ListItem>
@@ -17,28 +17,28 @@ const Technologies = () =>  (
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Programming</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            C++, Java, Javascript, HTML, mySql 
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          <DiFirebase size="3rem" />
+          <DiCodepen size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Hardware design</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Electrical circuits and VLSI design
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          <DiZend size="3rem" />
+          <DiUikit size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
