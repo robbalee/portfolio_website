@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Edo',
     description:"a place you find doctors from your home. you get to receive online diagnostics, advice about your health related issues. This website will help doctors reach a lot of people through digital channels.",
-    image: '/images/3.png',
+    image: '/images/3.jpg',
     tags: ['Java', 'JDK'],
     source: 'https://google.com',
     visit: 'https://google.com',

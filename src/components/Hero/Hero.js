@@ -15,7 +15,7 @@ const Hero = (props) => (
           Welcome to my Personal Portfolio website
         </SectionMiniTitle>
         <SectionText>
-        I am funny and witty person with common sense of hummor. I am a tech savvy person! i work on projects ranging from Defi to AI sytems.
+        I am 5th year computer engineering student at AASTU. I aspire to build successful brands in 2 years time. I work on projects ranging from Defi to AI sytems.
         </SectionText>
         <Button onclick={props.handleClick}>Learn More</Button> {/*add Link to this button*/}
       </LeftSection>
