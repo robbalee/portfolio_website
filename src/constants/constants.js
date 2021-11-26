@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Drone project',
-    description: "using quadcopeters to transport people in metropolian cities is the vision behind this high school project. this project can also help transporting medical kits and other packages into remote areas and roadless villages.",
+    description: "Quadcopeters can be used to transport people in metropolian cities. it is this vision that drived this high school project. This project also aims at transporting medical kits and other packages into remote areas and roadless villages.",
     image: '/images/1.png',
     tags: ['Brushless motors', 'Aerodynamics', 'blades'],
     source: 'https://google.com',

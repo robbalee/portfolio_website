@@ -23,7 +23,7 @@ const Header = () =>  (
       <li>
         <Link href="#tech">
           <NavLink>Skills</NavLink>
-        </Link>
+        </Link> 
       </li>        
       <li>
         <Link href="#about">
@@ -35,10 +35,10 @@ const Header = () =>  (
         <SocialIcons href="https://github.com/robbalee">
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://linkedin.com/robel-alemu">
+        <SocialIcons href="https://linkedin.com/in/robel-alemu">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://instagram.com">
+        <SocialIcons href="https://instagram.com/robbale_">
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
       </Div3>
