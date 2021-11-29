@@ -8,8 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Skills</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the computer engineering world.
-      From programming to VLSI design
+      As a computer Engineer i'm familiar with Electrical circuits and VLSI design. Computer programming is also a crucial tool in my arsenal.
     </SectionText>
     <List>
       <ListItem>
@@ -31,7 +30,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Hardware design</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Experiece with <br />
             Electrical circuits and VLSI design
           </ListParagraph>
         </ListContainer>
@@ -43,7 +42,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Experiece with <br />
             tools like Figma
           </ListParagraph>
         </ListContainer>

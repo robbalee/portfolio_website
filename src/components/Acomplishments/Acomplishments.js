@@ -4,10 +4,10 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  {  number: null, text: 'Bsc in computer engineering'},
-  { number: 2, text: ' 2+ projects', },
-  { number: 1900, text: 'Working with Investment Funds', },
-  { number: 5000, text: 'Huawei Ambassader to AASTU', }
+  {  number: null, text: 'Huawei Ambassader to AASTU'},
+  { number: 2, text: '300+ Linkdin weekly impresion', },
+  { number: 1900, text: 'Representative for GC computer engineering batch', },
+  { number: 5000, text: 'Internship at Investment Consultancy firm', }
 ];
 
 const Acomplishments = () => (
