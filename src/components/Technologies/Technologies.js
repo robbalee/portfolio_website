@@ -19,7 +19,7 @@ const Technologies = () =>  (
           <ListTitle>Programming</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            C++, Java, Javascript, HTML,CSS, mySql, React 
+            C++, Java, Javascript, HTML, CSS, mySql, React 
           </ListParagraph>
         </ListContainer>
       </ListItem>
