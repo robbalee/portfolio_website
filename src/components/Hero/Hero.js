@@ -18,7 +18,7 @@ const Hero = (props) => (
         <SectionText>
         I am 5th year computer engineering Student at aastu. Mostly I show up at 8:00am in aastu computer-vision lab and do my projects. If I am not working, I like doing workouts, music and football. 
         </SectionText>
-        <Button onclick={props.handleClick}><Link href="#about"> Learn More</Link></Button> {/*add Link to this button*/}
+        <Button onclick={props.handleClick}><Link href="#about"> Learn More </Link></Button> {/*add Link to this button*/}
       </LeftSection>
     </Section>
   </>
