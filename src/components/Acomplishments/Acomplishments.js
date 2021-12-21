@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   {  number: null, text: 'Huawei Ambassader to AASTU'},
-  { number: 2, text: '300+ Linkdin weekly impresion', },
+  { number: 2, text: '300+ Linkedin weekly impression', },
   { number: 1900, text: 'Representative for GC computer engineering batch', },
   { number: 5000, text: 'Internship at Investment Consultancy firm', }
 ];
