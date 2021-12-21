@@ -39,8 +39,8 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2017, text: 'Started my university journey', },
-  { year: 2018, text: 'choose Electrical and computer engineering, Crypto trading ', },
-  { year: 2019, text: 'Founded SendOn, learning AI ', },
-  { year: 2020, text: 'learing Web and mobile dev , Crypto brokering', },
+  { year: 2018, text: 'I joined Electrical and computer engineering, Crypto trading ', },
+  { year: 2019, text: 'Learning Machine Learning Algorithms,  ', },
+  { year: 2020, text: 'Learing Web and mobile development , Crypto brokering', },
   { year: 2021, text: 'learning DeFi protocols', },
 ];

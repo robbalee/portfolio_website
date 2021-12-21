@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating the future one at a time</Slogan>
+          <Slogan>Innovating the future</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/robbalee/">

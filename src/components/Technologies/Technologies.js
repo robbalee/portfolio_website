@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Skills</SectionTitle>
     <SectionText>
-      As a computer Engineer i'm familiar with Electrical circuits and VLSI design. Computer programming is also a crucial tool in my arsenal.
+      As a computer Engineer i work on Electrical circuits analysis and VLSI design. Computer programming is another crucial tool in my arsenal.
     </SectionText>
     <List>
       <ListItem>
@@ -19,7 +19,7 @@ const Technologies = () =>  (
           <ListTitle>Programming</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            C++, Java, Javascript, HTML, mySql 
+            C++, Java, Javascript, HTML, mySql, React 
           </ListParagraph>
         </ListContainer>
       </ListItem>
