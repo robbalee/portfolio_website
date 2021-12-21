@@ -18,8 +18,8 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Edo, personal dector',
-    description:"As a part of semester project, my class mates and i built a Software that serves you as a dashboard to monitor your health. you can see chackups or schedule a new one with your doctor, health tips tailor according to your health conditions, run automatic online tests and get insights about your health status.",
+    title: 'Edo, personal doctor',
+    description:"As a part of semester project, my class mates and i built a Software that serves you as a dashboard to monitor your health. you can see checkups or schedule a new one with your doctor, health tips tailor according to your health conditions, run automatic online tests and get insights about your health status.",
     image: '/images/3.jpg',
     tags: ['Java', 'JDK', 'UX'],
     source: 'https://google.com',
@@ -42,5 +42,5 @@ export const TimeLineData = [
   { year: 2018, text: 'choose Electrical and computer engineering, Crypto trading ', },
   { year: 2019, text: 'Founded SendOn, learning AI ', },
   { year: 2020, text: 'learing Web and mobile dev , Crypto brokering', },
-  { year: 2021, text: 'Started working on DeFi protocols', },
+  { year: 2021, text: 'learning DeFi protocols', },
 ];
