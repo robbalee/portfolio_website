@@ -13,7 +13,7 @@ const Hero = (props) => (
           Hi, I'm robel <br />
         </SectionTitle>
         <SectionMiniTitle main center>
-          Welcome to my personal Portfolio website, Rahile. give a me a call :)
+          Welcome to my personal Portfolio website, Raphile. if you are watching this pls give me a call :)
         </SectionMiniTitle>
         <SectionText>
         I am 5th year computer engineering Student at aastu. Mostly I show up at 8:00am in aastu computer-vision lab and do my projects. If I am not working, I like doing workouts, music and football. 
