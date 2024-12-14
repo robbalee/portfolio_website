@@ -1,3 +1,4 @@
+I have no idea, who's web this is. needs some recaping and work
 ## Personal Portfolio
 
 ### [Live Site](https://jsmasterypro.com)
